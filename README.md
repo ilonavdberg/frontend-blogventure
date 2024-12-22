@@ -202,7 +202,7 @@ Je kunt het JSON-bestand op de volgende manier importeren en gebruiken:
 ```jsx
 import posts from '../constants/data.json';
 
-function BlogPost() {
+function Blogpost() {
     console.log(posts);
 
     return (

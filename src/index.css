@@ -32,12 +32,7 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
   margin-block: 0.67em;
-}
-
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
-  margin-block: 0.67em;
+  color: var(--color-secondary);
 }
 
 h2 {
